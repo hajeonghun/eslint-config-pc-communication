@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pc-communication",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "PC-COMMUNICATION JavaScript + React Coding Conventions rules for eslint",
   "main": "index.js",
   "repository": {
