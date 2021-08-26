@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-hajh-react",
+  "name": "eslint-config-pc-communication",
   "version": "0.0.1",
-  "description": "HaJeongHun JavaScript + React Coding Conventions rules for eslint",
+  "description": "PC-COMMUNICATION JavaScript + React Coding Conventions rules for eslint",
   "main": "index.js",
   "repository": {
     "type": "git",
