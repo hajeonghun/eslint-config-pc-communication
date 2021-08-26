@@ -3,7 +3,7 @@
 *A mostly reasonable approach to React and JSX*
 
 PC-COMMUNICATION React/JSX 스타일 가이드는 [Airbnb React/JSX 스타일 가이드](https://github.com/airbnb/javascript/blob/master/react/README.md) 를 기준으로 작성되었습니다.  
-(TODO: 번역 예정)
+(TODO: 번역 진행 중 2021.08.26)
 ## Table of Contents
 
   1. [Basic Rules](#basic-rules)

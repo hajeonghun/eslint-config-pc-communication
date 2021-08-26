@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hajeonghun/eslint-config-hajh-react.git"
+    "url": "git+https://github.com/hajeonghun/eslint-config-pc-communication.git"
   },
   "author": "Ha Jeong Hun",
   "license": "MIT",
