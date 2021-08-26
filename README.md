@@ -91,7 +91,7 @@ extends: ['pc-communication', 'pc-communication/hooks', 'plugin:prettier/recomme
 ### [PC-COMMUNICATION JavaScript Style Guilde](STYLE_GUIDE.md)
 
 ## PC-COMMUNICATION React Hooks Style Guide
-상세한 내용은 다음의 JavaScript 스타일 가이드를 참조하세요
+상세한 내용은 다음의 React/JSX 스타일 가이드를 참조하세요
 ### [PC-COMMUNICATION React Hooks Style Guilde](REACT_STYLE_GUIDE.md)
 
 
