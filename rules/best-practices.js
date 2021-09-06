@@ -77,5 +77,7 @@ module.exports = {
     // http://eslint.org/docs/rules/wrap-iife.html
     "wrap-iife": ["error", "inside", { functionPrototypeMethods: false }],
     // "wrap-iife": ["error", "outside", { functionPrototypeMethods: false }],
+
+    "no-useless-return": "off"
   }
 };
